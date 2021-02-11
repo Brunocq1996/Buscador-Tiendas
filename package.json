@@ -1,0 +1,22 @@
+{
+  "name": "buscador-tiendas",
+  "version": "1.0.0",
+  "description": "Buscador de Tiendas con gulp",
+  "main": "./JS/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunocq1996/Buscador-Tiendas.git"
+  },
+  "author": "Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brunocq1996/Buscador-Tiendas/issues"
+  },
+  "homepage": "https://github.com/Brunocq1996/Buscador-Tiendas#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
